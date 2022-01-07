@@ -44,7 +44,7 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prabath159753&show_icons=true&theme=gotham" alt="Prabath159753|Stats"/>
-    
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Prabath159753&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
     
 <!--
 **Prabath159753/Prabath159753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
