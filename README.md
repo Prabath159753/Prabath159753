@@ -47,14 +47,12 @@ Where to find me 🤙
 
 [<img height="25" src = "https://img.shields.io/badge/linkedin-00614A.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src = "https://img.shields.io/badge/Whatsapp-00614A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
-    
 <img height="25" src = "https://img.shields.io/badge/Youtube-00614A.svg?&style=for-the-badge&logo=Youtube&logoColor=white">
 <img height="25" src = "https://img.shields.io/badge/Facebook-00614A.svg?&style=for-the-badge&logo=facebook&logoColor=white">
 <img height="25" src = "https://img.shields.io/badge/twitter-00614A.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 <img height="25" src = "https://img.shields.io/badge/instragram-00614A.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 <img height="25" src = "https://img.shields.io/badge/tumblr-00614A.svg?&style=for-the-badge&logo=tumblr&logoColor=white">
-<img height="25" src = "https://img.shields.io/badge/reddit-00614A.svg?&style=for-the-badge&logo=reddit&logoColor=white">
-    
+<img height="25" src = "https://img.shields.io/badge/reddit-00614A.svg?&style=for-the-badge&logo=reddit&logoColor=white">    
 <img height="25" src = "https://img.shields.io/badge/telegram-00614A.svg?&style=for-the-badge&logo=telegram&logoColor=white">
 <img height="25" src = "https://img.shields.io/badge/DEV%20Community-00614A.svg?&style=for-the-badge&logo=dev&logoColor=white">
 <img height="25" src = "https://img.shields.io/badge/Medium-00614A.svg?&style=for-the-badge&logo=medium&logoColor=white">
